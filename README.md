@@ -1,17 +1,30 @@
 # tldraw-vite
 
 ## Quick start (by [tldraw.dev](https://tldraw.dev/))
-### 1. Installation
+
+If you would like to ___clone and run the repo___, then use the following commands.
+
+Install dependancies:
+```
+npm install
+```
+
+Start the local development server:
+```
+npm run dev
+```
+
+Open the project at `localhost:5420`
+
+
+## OR
+
+
+### 1. Installation (from scratch)
 * Set up a React project however you normally do. [Vite recommended](https://vitejs.dev/guide/#scaffolding-your-first-vite-project).
 * Install the tldraw library using this command:
 ```
 npm install tldraw
-```
-
-### OR
-If cloning this repository you can just run the below command.
-```
-npm install
 ```
 
 ### 2. Import Styles
