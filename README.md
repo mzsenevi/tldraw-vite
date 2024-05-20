@@ -8,6 +8,12 @@
 npm install tldraw
 ```
 
+### OR
+If cloning this repository you can just run the below command.
+```
+npm install
+```
+
 ### 2. Import Styles
 To import fonts and CSS for tldraw:
 
@@ -41,6 +47,12 @@ export default function App() {
 		</div>
 	)
 }
+```
+
+### 4. Running the canvas experience
+You can use the tldraw SDK to craft infinite canvas experiences for the web. It's perfect for collaborative whiteboards but you can use it for lots of other things, too.
+```
+npm run dev
 ```
 
 ### Next Steps
